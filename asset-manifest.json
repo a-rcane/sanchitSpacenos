@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sanchitSpacenos/static/css/main.47799de5.css",
+    "main.js": "/sanchitSpacenos/static/js/main.9cd6d726.js",
+    "index.html": "/sanchitSpacenos/index.html",
+    "main.47799de5.css.map": "/sanchitSpacenos/static/css/main.47799de5.css.map",
+    "main.9cd6d726.js.map": "/sanchitSpacenos/static/js/main.9cd6d726.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47799de5.css",
+    "static/js/main.9cd6d726.js"
+  ]
+}
