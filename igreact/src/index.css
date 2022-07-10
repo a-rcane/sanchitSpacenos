@@ -38,6 +38,18 @@ ul {
 
   .back {
 	display: flex;
-	height: 15em;
+	height: 25em;
 	background-color: darksalmon;
+  }
+
+  .imgIco {
+	position: relative;
+	height: 10em;
+	width: 10em;
+	border-radius: 100%;
+	background-color: aliceblue;
+	align-items: center;
+	display: flexbox;
+	margin-top: 10%;
+	margin-left: 40%;
   }

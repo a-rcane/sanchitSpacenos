@@ -9,6 +9,8 @@ const Header = () => {
                 </ul>
             </navbar>
             <div className = "back">
+                <div className = "imgIco">
+                </div>
             </div>
         </div>
     )
